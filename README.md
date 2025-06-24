@@ -1,6 +1,4 @@
-# wifi-MIDI
-
-# Network Application **Final Project**
+# wifi-MIDI *(Network Application Final Project)*
 
 ## /test
 
